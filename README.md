@@ -1,8 +1,8 @@
 # MCI-Assessment-of-Distributed-Generation-Technologies-for-Mexico-s-Energy-Transition.
 Manuscript ID: IEEE LATAM Submission ID: 10230 Authors:
 
- - Diana Laura Ovalle Flores
- - Rafael Peña Gallardo
+ - Diana Laura Ovalle Flores, UASLP
+ - Rafael Peña Gallardo, UASLP
 
 # 📁 Include scripts 
 
