@@ -16,16 +16,16 @@ In thie .xls file you will find the LCA of technologies, which allows obtaining 
 
 # MCI database and calculation
 In this .xls file you will find the life cycle inventory (LCI) of the nine technologies and the MCI calculation for each material:
-[PV_MCI.xlsx](https://github.com/user-attachments/files/26335555/PV_MCI.xlsx)
-[MCI total.xlsx](https://github.com/user-attachments/files/26335554/MCI.total.xlsx)
-[Hidro_MCI.xlsx](https://github.com/user-attachments/files/26335553/Hidro_MCI.xlsx)
-[Gas_MCI.xlsx](https://github.com/user-attachments/files/26335552/Gas_MCI.xlsx)
-[Fuel oil_MCI.xlsx](https://github.com/user-attachments/files/26335551/Fuel.oil_MCI.xlsx)
-[Diesel_MCI.xlsx](https://github.com/user-attachments/files/26335550/Diesel_MCI.xlsx)
-[Cogeneration_MCI.xlsx](https://github.com/user-attachments/files/26335549/Cogeneration_MCI.xlsx)
-[Biomass_MCI.xlsx](https://github.com/user-attachments/files/26335548/Biomass_MCI.xlsx)
-[Biogas_MCI.xlsx](https://github.com/user-attachments/files/26335547/Biogas_MCI.xlsx)
-[Wind_MCI.xlsx](https://github.com/user-attachments/files/26335546/Wind_MCI.xlsx)
+ - [PV_MCI.xlsx](https://github.com/user-attachments/files/26335555/PV_MCI.xlsx)
+ - [MCI total.xlsx](https://github.com/user-attachments/files/26335554/MCI.total.xlsx)
+ - [Hidro_MCI.xlsx](https://github.com/user-attachments/files/26335553/Hidro_MCI.xlsx)
+ - [Gas_MCI.xlsx](https://github.com/user-attachments/files/26335552/Gas_MCI.xlsx)
+ - [Fuel oil_MCI.xlsx](https://github.com/user-attachments/files/26335551/Fuel.oil_MCI.xlsx)
+ - [Diesel_MCI.xlsx](https://github.com/user-attachments/files/26335550/Diesel_MCI.xlsx)
+ - [Cogeneration_MCI.xlsx](https://github.com/user-attachments/files/26335549/Cogeneration_MCI.xlsx)
+ - [Biomass_MCI.xlsx](https://github.com/user-attachments/files/26335548/Biomass_MCI.xlsx)
+ - [Biogas_MCI.xlsx](https://github.com/user-attachments/files/26335547/Biogas_MCI.xlsx)
+ - [Wind_MCI.xlsx](https://github.com/user-attachments/files/26335546/Wind_MCI.xlsx)
 
 
 # 💻 Requirements
