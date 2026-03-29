@@ -35,4 +35,5 @@ In this .xls file you will find the life cycle inventory (LCI) of the nine techn
 # ✉️ Contact
 For questions or replication of results:
 
-diana.ovalle48@gmail.com
+a247172@alumnos.uaslp.mx
+
